@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="_0">0</string>
+    <string name="clickme">Clickme</string>
+    <string name="Reset" />
+    <string name="Button">Reset</string>
+    <string name="Textviw">0</string>
+</resources>
